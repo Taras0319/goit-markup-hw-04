@@ -70,7 +70,7 @@ gap: 40px;
   width: 100%;
 }
 
-.line-studio {
+.line-studio.line-studio {
 color: #404bbf;
 }
 
@@ -173,7 +173,7 @@ gap: 40px;
     background: #2e2f42;
       background-image: linear-gradient(rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)),
-        url(../images1/people-office\ 1.jpg);
+        url(../images1/people-office1.jpg);
       background-repeat: no-repeat;
       background-position: center;
       block-size: cover;
@@ -313,7 +313,7 @@ gap: 40px;
   justify-content: center;
 }
 
-.hero-title-networks-item {
+.hero-title-networks-item.hero-title-networks-item {
   width: 40px;
   height: 40px;
 }
