@@ -261,6 +261,8 @@ gap: 40px;
   border-radius: 4px;
   margin-bottom: 8px;
   height: 112px;
+  border: 1px solid var(--LIGHT-SLATE, #8E8F99);
+ 
   
 }
 
